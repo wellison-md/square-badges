@@ -21,3 +21,23 @@ Aqui sempre haverá espaço para **qualquer um** que esteja disposto a ajudar, p
 
   
 </details>
+
+
+## Tech-badges
+
+| tech | icon | 
+| :---: | :---: |
+| C | ![](./badges/langs/c.svg)|
+| C++ | ![](./badges/langs/cpp.svg) |
+| C# | ![](./badges/langs/csharp.svg)|
+| Java | ![](./badges/langs/java.svg) |
+| JavaScript | ![](./badges/langs/js.svg) |
+| React js | ![](./badges/langs/reactjs.svg) |
+| Jest | ![](./badges/langs/jest.svg) |
+| x | ![](./badges/langs/.svg) |
+| x | ![](./badges/langs/.svg) |
+| x | ![](./badges/langs/.svg) |
+| x | ![](./badges/langs/.svg) |
+| x | ![](./badges/langs/.svg) |
+| x | ![](./badges/langs/.svg) |
+| x | ![](./badges/langs/.svg) |
