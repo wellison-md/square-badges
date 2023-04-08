@@ -31,13 +31,13 @@ Aqui sempre haverá espaço para **qualquer um** que esteja disposto a ajudar, p
 | C++ | ![](./badges/langs/cpp.svg) |
 | C# | ![](./badges/langs/csharp.svg)|
 | Java | ![](./badges/langs/java.svg) |
+| HTML5 | ![](./badges/langs/html5.svg) |
+| CSS3 | ![](./badges/langs/css3.svg) |
 | JavaScript | ![](./badges/langs/js.svg) |
 | React js | ![](./badges/langs/reactjs.svg) |
 | Jest | ![](./badges/langs/jest.svg) |
-| x | ![](./badges/langs/.svg) |
-| x | ![](./badges/langs/.svg) |
-| x | ![](./badges/langs/.svg) |
-| x | ![](./badges/langs/.svg) |
-| x | ![](./badges/langs/.svg) |
-| x | ![](./badges/langs/.svg) |
-| x | ![](./badges/langs/.svg) |
+| React testing library | ![](./badges/langs/rtl.svg) |
+|  | ![](./badges/langs/.svg) |
+|  | ![](./badges/langs/.svg) |
+|  | ![](./badges/langs/.svg) |
+|  | ![](./badges/langs/.svg) |
