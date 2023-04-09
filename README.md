@@ -42,3 +42,5 @@ Aqui sempre haverá espaço para **qualquer um** que esteja disposto a ajudar, p
 | Python | ![](./badges/langs/python.svg) |
 | php | ![](./badges/langs/php.svg) |
 | ruby | ![](./badges/langs/ruby.svg) |
+| mongoDB | ![](./badges/langs/mongodb.svg) |
+| Postgre SQL | ![](./badges/langs/postgresql.svg) |
