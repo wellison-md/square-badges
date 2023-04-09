@@ -41,3 +41,4 @@ Aqui sempre haverá espaço para **qualquer um** que esteja disposto a ajudar, p
 | Typescript | ![](./badges/langs/ts.svg) |
 | Python | ![](./badges/langs/python.svg) |
 | php | ![](./badges/langs/php.svg) |
+| ruby | ![](./badges/langs/ruby.svg) |
