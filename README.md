@@ -37,7 +37,7 @@ Aqui sempre haverá espaço para **qualquer um** que esteja disposto a ajudar, p
 | React js | ![](./badges/langs/reactjs.svg) |
 | Jest | ![](./badges/langs/jest.svg) |
 | React testing library | ![](./badges/langs/rtl.svg) |
+| Redux | ![](./badges/langs/redux.svg) |
 | Typescript | ![](./badges/langs/ts.svg) |
 | Python | ![](./badges/langs/python.svg) |
-|  | ![](./badges/langs/.svg) |
-|  | ![](./badges/langs/.svg) |
+| php | ![](./badges/langs/php.svg) |
