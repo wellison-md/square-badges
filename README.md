@@ -19,13 +19,13 @@ Aqui sempre haverá espaço para **qualquer um** que esteja disposto a ajudar, p
 
   ![settings-file](./assets/file-settings.png)
 
-  
+
 </details>
 
 
 ## Tech-badges
 
-| tech | icon | 
+| tech | icon |
 | :---: | :---: |
 | C | ![](./badges/langs/c.svg)|
 | C++ | ![](./badges/langs/cpp.svg) |
@@ -44,3 +44,5 @@ Aqui sempre haverá espaço para **qualquer um** que esteja disposto a ajudar, p
 | ruby | ![](./badges/langs/ruby.svg) |
 | mongoDB | ![](./badges/langs/mongodb.svg) |
 | Postgre SQL | ![](./badges/langs/postgresql.svg) |
+| Nodejs | ![](./badges/langs/nodejs.svg) |
+| Docker | ![](./badges/langs/docker.svg) |
